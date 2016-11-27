@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="?android:attr/textSelectHandleRight"
+       >
+    <item
+        android:id="@+id/set_menu_tempture_threshold"
+        android:title="温度阀值"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/set_menu_humidity_threshold"
+        android:title="湿度阀值"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/set_menu_light_threshold"
+        android:title="亮度阀值"
+        app:showAsAction="never" />
+</menu>

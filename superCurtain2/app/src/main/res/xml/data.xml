@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curtain>
+        <temperature>unknown</temperature>
+        <humidity>unknown</humidity>
+        <brightness>unknown</brightness>
+        <clock_state>enable</clock_state>  <!--定时信息无需连接蓝牙-->
+        <temperature_threshold>25</temperature_threshold>
+        <humidity_threshold>1000</humidity_threshold>
+        <brightness_threshold>1000</brightness_threshold>
+        <clock_mes>4</clock_mes>  <!--定时open  close curtain-->
+        <clock_stop>00:00</clock_stop>   <!--定时结束时间-->
+        <curtain_state>close</curtain_state>
+        <control_mode>auto</control_mode> <!--控制模式为自动控制-->
+</curtain>
